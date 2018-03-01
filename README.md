@@ -53,3 +53,6 @@
     - when a process is terminated shell shows its exit messages and pid of that process.
     - run process in backround **"&"** should be appended at last.
     - strtok_r method is used to parse the input with **";"** (semicolon separated), **" "** (space seperated) tokens.
+  - ## Execute
+    - run ```make``` in cloned directory.
+    - execute ```./main``` to start shell.
